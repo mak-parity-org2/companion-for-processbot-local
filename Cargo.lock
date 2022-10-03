@@ -3,13 +3,13 @@
 version = 3
 
 [[package]]
-name = "companion-for-processbot-staging"
+name = "companion-for-processbot-local"
 version = "0.1.0"
 dependencies = [
- "main-for-processbot-staging",
+ "main-for-processbot-local",
 ]
 
 [[package]]
-name = "main-for-processbot-staging"
+name = "main-for-processbot-local"
 version = "0.1.0"
-source = "git+https://github.com/paritytech/main-for-processbot-staging?branch=master#54f45805d20d72bdbd392955ca9efaecb03f88ef"
+source = "git+https://github.com/mak-parity-org2/main-for-processbot-local?branch=master#c3ad6162ccbf5476f1eff1a8d953c2e1be17fbc2"

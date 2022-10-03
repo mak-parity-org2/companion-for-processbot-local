@@ -1,8 +1,8 @@
 [package]
-name = "companion-for-processbot-staging"
+name = "companion-for-processbot-local"
 version = "0.1.0"
-authors = ["paritytech <info@parity.io>"]
+authors = ["mak-parity-org2 <info@parity.io>"]
 edition = "2018"
 
 [dependencies]
-main-for-processbot-staging = { git = "https://github.com/paritytech/main-for-processbot-staging", branch = "master" }
+main-for-processbot-local = { git = "https://github.com/mak-parity-org2/main-for-processbot-local", branch = "master" }
